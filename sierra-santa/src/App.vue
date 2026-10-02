@@ -5,8 +5,10 @@
   <div class="header" style="display: flex; justify-content: space-between;">
     <image class="logo"></image>
     <h1>Title</h1>
-    <button class="header-btn">Labels</button>
-    <button class="header-btn">Label</button>
+    <a href="/Login">
+    <button class="header-btn">Login</button>
+    </a>
+    <button class="header-btn">Registro</button>
     <button class="header-btn">Label</button>
     <div class="header-account">
       <image class="pfp"></image>
